@@ -2,3 +2,8 @@ https://csharpindepth.com/articles/Closures
 
 https://books.google.com.tr/books?id=eQhNDwAAQBAJ&pg=PA478&lpg=PA478&dq=c%23+covariant+and+contravariant+%22that+of%22&source=bl&ots=yE53P0Mjwa&sig=ACfU3U26h7PGtRCzZlCzTmpZXrpSmq_vsQ&hl=tr&sa=X&ved=2ahUKEwinpd_hg6noAhWP-aQKHY1KAu0Q6AEwBXoECAoQAQ#v=onepage&q=c%23%20covariant%20and%20contravariant%20%22that%20of%22&f=false
 
+
+stateful vs stateless
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/4f0fd4ba-ca04-4353-ab10-9da0c58f60b5/stateless-class-in-c?forum=csharpgeneral
+A stateless/immutable class is said to be stateless when it doesn't have any mutators (or fields at all).
+a class must not have fields to be stateless.
